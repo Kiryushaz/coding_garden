@@ -1,3 +1,3 @@
-# Проектная деятельность. Coding Garden for Data Science
+# ПД 20. Coding Garden for Data Science
 
-Кирилл Зыков (kiryushaz.gaming@gmail.com)
+Зыков Кирилл МО-201 (kiryushaz.gaming@gmail.com)
